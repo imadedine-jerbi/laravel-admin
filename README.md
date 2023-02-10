@@ -99,7 +99,6 @@ CREATE TABLE `users` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci
 ```
 And the model for this table is `App\User.php`
-
 You can follow these steps to setup `CURD` interfaces of table `users`:
 
 #### 1.add controller
