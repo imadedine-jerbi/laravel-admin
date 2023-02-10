@@ -24,14 +24,9 @@ Installation
 ------------
 
 ```
-Laravel 5.2
+Laravel
 composer require encore/laravel-admin "dev-master"
 
-Laravel 5.3
-composer require encore/laravel-admin "1.3.x-dev"
-
-Laravel 5.1
-composer require encore/laravel-admin "1.1.x-dev"
 ```
 
 In`config/app.php`add`ServiceProvider`:
